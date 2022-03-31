@@ -3,10 +3,14 @@
 This Unsupervised Learning will contains variaety of projects with different goals and techniques.
 
 **Project#1:** AIML module project part I consists of industry based problems statement which can be solved using clustering techniques.
+
 **DOMAIN:** Automobile
+
 **CONTEXT:** The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5
 continuous attributes
+
 **DATA DESCRIPTION:** The data concerns city-cycle fuel consumption in miles per gallon
+
 **Attribute Information:**
 1. mpg: continuous
 2. cylinders: multi-valued discrete
